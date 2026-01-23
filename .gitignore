@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Notebooks
+.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
+
+# Data (Optional: exclude large raw files if needed)
+# data/raw/
