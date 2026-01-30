@@ -52,7 +52,7 @@ MO_AFN_Project/
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/prabanand-sc/MO-AFN.git
+    git clone https://github.com/mkarthiga2211/Treatment-Personalization-Multi-Omics-Focus-.git)
     cd MO-AFN/MO_AFN_Project
     ```
 
